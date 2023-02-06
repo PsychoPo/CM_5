@@ -1,0 +1,15 @@
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\bin\Debug\net7.0\CM_5.exe
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\bin\Debug\net7.0\CM_5.deps.json
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\bin\Debug\net7.0\CM_5.runtimeconfig.json
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\bin\Debug\net7.0\CM_5.dll
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\bin\Debug\net7.0\CM_5.pdb
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\CM_5.csproj.AssemblyReference.cache
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\CM_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\CM_5.AssemblyInfoInputs.cache
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\CM_5.AssemblyInfo.cs
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\CM_5.csproj.CoreCompileInputs.cache
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\CM_5.dll
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\refint\CM_5.dll
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\CM_5.pdb
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\CM_5.genruntimeconfig.cache
+C:\Users\whoami\VS Code\Computational Mathematics\CM_5\obj\Debug\net7.0\ref\CM_5.dll
